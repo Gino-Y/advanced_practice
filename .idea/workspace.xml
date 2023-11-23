@@ -1,20 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf97c8b0-5e58-43b8-8bca-06200a8ac797" name="更改" comment="" />
+    <list default="true" id="cf97c8b0-5e58-43b8-8bca-06200a8ac797" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/constructor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/constructor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/javabean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/javabean/StudentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/javabean/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/object/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/object/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/object/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/thisdemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/thisdemo/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2YZZVK7OjwEPVU0yKlaXx5jogGQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,9 +51,91 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="应用程序.com.itheima.javabean.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.object.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.constructor.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.constructor.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.encapsulation.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.encapsulation.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.javabean.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.javabean.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.javabean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.thisdemo.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.thisdemo.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.thisdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.com.itheima.javabean.Test" />
+        <item itemvalue="应用程序.com.itheima.encapsulation.Test" />
+        <item itemvalue="应用程序.com.itheima.constructor.Test" />
+        <item itemvalue="应用程序.com.itheima.thisdemo.Test" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -36,8 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700735087270</updated>
-      <workItem from="1700735088271" duration="1000" />
+      <workItem from="1700735088271" duration="6666000" />
+      <workItem from="1700749494689" duration="634000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
