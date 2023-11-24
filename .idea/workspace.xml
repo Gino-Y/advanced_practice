@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf97c8b0-5e58-43b8-8bca-06200a8ac797" name="更改" comment="opp">
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/demo/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/demo/MovieOpreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/pkg/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/pkgTest/Test.java" afterDir="false" />
+    <list default="true" id="cf97c8b0-5e58-43b8-8bca-06200a8ac797" name="更改" comment="231124">
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/string/StringDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/string/StringDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,39 +50,39 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.itheima.constructor.Test">
+  <component name="RunManager" selected="Application.StringDemo2">
+    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.string.StringDemo1" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.string.StringDemo2" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.pkgTest.Test" />
       <module name="advanced_practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.itheima.pkgTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.itheima.constructor.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.constructor.Test" />
-      <module name="advanced_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.itheima.demo.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.demo.Test" />
-      <module name="advanced_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,6 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringDemo2" />
+        <item itemvalue="Application.StringDemo1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -131,7 +134,7 @@
       <workItem from="1700735088271" duration="6666000" />
       <workItem from="1700749494689" duration="5531000" />
       <workItem from="1700795034401" duration="2253000" />
-      <workItem from="1700798537860" duration="14000" />
+      <workItem from="1700798537860" duration="5066000" />
     </task>
     <task id="LOCAL-00001" summary="opp">
       <option name="closed" value="true" />
@@ -157,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700750782518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="231124">
+      <option name="closed" value="true" />
+      <created>1700798605701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700798605701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +176,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="opp" />
-    <option name="LAST_COMMIT_MESSAGE" value="opp" />
+    <MESSAGE value="231124" />
+    <option name="LAST_COMMIT_MESSAGE" value="231124" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
