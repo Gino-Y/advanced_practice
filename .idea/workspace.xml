@@ -4,10 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf97c8b0-5e58-43b8-8bca-06200a8ac797" name="更改" comment="字符串的常用标准函数库练习">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/arraylist/ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itheima/arraylist/ArrayListTest2.java" afterDir="false" />
+    <list default="true" id="cf97c8b0-5e58-43b8-8bca-06200a8ac797" name="更改" comment="数组列表">
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d3_inner_class3/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d4_abstract/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d4_abstract/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d4_abstract/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d4_abstract/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d4_abstract/Teat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d5_inner_class5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d6_enum/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d6_enum/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d6_enum/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_enum2/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_enum2/Constant2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_enum2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_interface_demo/ClassManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_interface_demo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_interface_demo/StudentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_interface_demo/StudentOperatorImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_interface_demo/StudentOperatorImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/d7_interface_demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/oop1_staticdemo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/oop1_staticdemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/oop1_staticdemo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/oop1_staticdemo/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -49,74 +71,82 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editor.preferences.import",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.d7_interface_demo" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="修复错误" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest2">
-    <configuration name="ArrayListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.arraylist.ArrayListDemo1" />
-      <module name="advanced_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.arraylist.ArrayListTest2" />
-      <module name="advanced_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.arraylist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.string.StringDemo1" />
-      <module name="advanced_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.string.StringDemo2" />
-      <module name="advanced_practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.itheima.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.pkgTest.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d7_enum2.Test" />
       <module name="advanced_practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.pkgTest.*" />
+          <option name="PATTERN" value="com.itheima.d7_enum2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d3_inner_class3.Test2" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d3_inner_class3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.d5_inner_class5.Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d5_inner_class5.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d5_inner_class5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.d5_inner_class5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d5_inner_class5.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d5_inner_class5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.itheima.d6_enum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.d6_enum.Test" />
+      <module name="advanced_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.d6_enum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListTest2" />
-        <item itemvalue="Application.ArrayListDemo1" />
-        <item itemvalue="Application.StringDemo2" />
-        <item itemvalue="Application.StringDemo1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.com.itheima.d6_enum.Test" />
+        <item itemvalue="Application.com.itheima.d5_inner_class5.Test (1)" />
+        <item itemvalue="Application.com.itheima.d5_inner_class5.Test" />
+        <item itemvalue="Application.Test2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +175,8 @@
       <workItem from="1700735088271" duration="6666000" />
       <workItem from="1700749494689" duration="5531000" />
       <workItem from="1700795034401" duration="2253000" />
-      <workItem from="1700798537860" duration="7934000" />
+      <workItem from="1700798537860" duration="14950000" />
+      <workItem from="1700881431984" duration="16923000" />
     </task>
     <task id="LOCAL-00001" summary="opp">
       <option name="closed" value="true" />
@@ -186,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700810300012</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="数组列表">
+      <option name="closed" value="true" />
+      <created>1700814760821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700814760821</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +236,8 @@
     <MESSAGE value="opp" />
     <MESSAGE value="231124" />
     <MESSAGE value="字符串的常用标准函数库练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串的常用标准函数库练习" />
+    <MESSAGE value="数组列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组列表" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
